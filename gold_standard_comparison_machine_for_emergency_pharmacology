@@ -7,4 +7,21 @@ Este documento constituye el manual operativo de la **Máquina de Comparación G
 Al interceptar el receptor CD26/DPP4 (PDB ID: 1X70), este módulo calcula y simula el uso del ligando cuántico-quiral como un antídoto dinámico inteligente, ofreciendo al cuerpo médico una proyección matemática exacta de la trayectoria de recuperación del paciente.
 
 ### 2. Algoritmo de Acción y Pasos Críticos para el Médico Interventor
+### 3. Criterios de Validación Predictiva y Seguridad Termodinámica
+A diferencia de los protocolos tradicionales basados en la intuición clínica o la dosificación empírica masiva, la **Máquina de Comparación Gold Standard** 
+## ⚠️ CLÁUSULA DE EXCLUSIÓN DE RESPONSABILIDAD MÉDICA Y LEGAL (DISCLAIMER)
+### Sobre el Uso de Sistemas Informáticos Algorítmicos en la Toma de Decisiones Clínicas
 
+1. NATURALEZA COMPLEMENTARIA DE LA TECNOLOGÍA
+La "Máquina de Comparación Gold Standard" y los modelos predictivos de lazo cerrado cuántico-quiral provistos en este repositorio constituyen exclusivamente herramientas de soporte bioinformático, simulación matemática y asistencia analítica basada en datos estadísticos. 
+
+2. supremacía del Juicio Clínico sobre el Terreno
+Bajo ninguna circunstancia, escenario de emergencia o contexto regulatorio, el uso de este software, sus algoritmos, ecuaciones diferenciales estocásticas o trayectorias de espacio de fase reemplazan, anulan o supeditan el juicio clínico, la experiencia médica y el criterio diagnóstico del profesional de la salud que se encuentra operando en el terreno. 
+
+3. Factores No Modelables en Entornos Digitales
+La medicina de emergencia en el mundo real presenta variables biológicas únicas, comorbilidades no registradas, respuestas alérgicas cruzadas y fluctuaciones dinámicas que ninguna máquina o simulación por computadora puede anticipar con absoluta certeza. Por lo tanto:
+   a) El médico interventor es el único responsable legal, ético y científico de evaluar los signos vitales y decidir la conducta terapéutica final.
+   b) Los datos arrojados por el simulador deben interpretarse como correlaciones predictivas de apoyo, nunca como órdenes de ejecución automatizada e inflexible.
+
+4. Límite de Responsabilidad Civil del Autor
+El autor (CuecaLabsATP0305) no asume ninguna responsabilidad civil, penal, médica o administrativa por diagnósticos erróneos, complicaciones clínicas, agravamiento de cuadros o decesos derivados de decisiones médicas basadas, en su totalidad o en parte, en las proyecciones informáticas de este repositorio. El uso de este código implica la aceptación absoluta de estos términos por parte del profesional usuario.
