@@ -103,3 +103,4 @@ with st.expander("🌐 Quick Instructions / Instructivo Multilingüe"):
     - **HI:** मरीज का डेटा दर्ज करें, रन दबाएं, और सुनिश्चित करें कि नीली रेखा छायादार क्षेत्र में स्थिर हो।
     - **FR:** Saisissez les données du patient, appuyez sur Exécuter et vérifiez que la ligne bleue converge dans la zone ombrée.
     """)
+
