@@ -1,0 +1,20 @@
+{
+  "infrastructure_metadata": {
+    "system_id": "AMAYA_CORE_NODE_INDUSTRIAL",
+    "signature_control": "CuecaLabsATP0305",
+    "operational_mode": "ZERO_ERRORS_PROTOCOL",
+    "temporal_permanence_years": 150
+  },
+  "tensor_allocation_layer": {
+    "total_tensors_allocated": 70,
+    "allocation_topology": "AUTONOMOUS_CHIRAL_ORTHOGONAL",
+    "dynamic_repartition_enabled": true,
+    "determinant_target": 1.0226
+  },
+  "biomimetic_self_repair": {
+    "feedback_loop": "CONTINUOUS_INFINITE_LEARNING",
+    "thermodynamic_anchor_kcal_mol": -5.0,
+    "entropy_threshold_limit": 15.0,
+    "status": "HOMEOSTASIS_NOMINAL_70D"
+  }
+}
